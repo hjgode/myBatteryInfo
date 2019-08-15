@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('hax-os-sdk-01.01.00.0532.jar'))
